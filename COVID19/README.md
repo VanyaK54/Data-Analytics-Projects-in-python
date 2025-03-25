@@ -56,8 +56,8 @@ This project aims to predict the likelihood of diabetes in individuals using mac
 - Add visualizations for better data interpretation.
 - Integrate a web interface for end-user interaction.
 
-## Contributors
-- [Your Name]  
+## Contributions to this repo
+- Added a new test case to ensure data consistency across case types.
 
 ## License
 This project is licensed under the MIT License.
